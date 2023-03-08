@@ -10,11 +10,11 @@ Predicting the ability of a borrower to pay back the loan through a classificati
 
 ### Traditional ML Model and  Ensembling techniques
 
-[ankit-kothari/Credit-Risk-Analysis](https://github.com/ankit-kothari/Credit-Risk-Analysis/blob/master/credit_risk_analysis_ML.ipynb)
+[Prince-Kansagra/Credit-Risk-Analysis](https://github.com/ankit-kothari/Credit-Risk-Analysis/blob/master/credit_risk_analysis_ML.ipynb)
 
 ### Comparing XGBoost with ANN
 
-[ankit-kothari/Credit-Risk-Analysis](https://github.com/ankit-kothari/Credit-Risk-Analysis/blob/master/credit_risk_analysis_Keras.ipynb)
+[Prince-Kansagra/Credit-Risk-Analysis](https://github.com/ankit-kothari/Credit-Risk-Analysis/blob/master/credit_risk_analysis_Keras.ipynb)
 
 [Data Overview ]
 Some assumtions for the dataset:
